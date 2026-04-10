@@ -62,18 +62,6 @@ beyond code, i am deeply invested in personal development and communities. i cur
 
 <br>
 
-### robotics & tools &nbsp;&nbsp;&nbsp; · · ·
-
-<br>
-
-![ROS 2](https://img.shields.io/badge/ROS_2-e8edf2?style=for-the-badge&logo=ros&logoColor=6b7a8d)
-![Git](https://img.shields.io/badge/Git-e8edf2?style=for-the-badge&logo=git&logoColor=6b7a8d)
-![Docker](https://img.shields.io/badge/Docker-e8edf2?style=for-the-badge&logo=docker&logoColor=6b7a8d)
-
-</div>
-
-<br>
-
 ---
 
 <br>
