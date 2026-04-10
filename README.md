@@ -1,6 +1,3 @@
-# DSG
-My personal repository 
-
 <div align="center">
 
 ### hi, i'm derda &nbsp;·&nbsp; computer engineering student @ ankara university &nbsp;·&nbsp; ankara 
