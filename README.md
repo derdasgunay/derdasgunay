@@ -46,7 +46,7 @@ beyond code, i am deeply invested in personal development and communities. i cur
 
 ![Python](https://img.shields.io/badge/Python-e8edf2?style=for-the-badge&logo=python&logoColor=6b7a8d)
 ![SQL](https://img.shields.io/badge/SQL-e8edf2?style=for-the-badge&logo=postgresql&logoColor=6b7a8d)
-
+![C#](https://img.shields.io/badge/C%23-e8edf2?style=for-the-badge&logo=csharp&logoColor=6b7a8d)
 <br>
 
 ### data science & ai &nbsp;&nbsp;&nbsp; · · ·
